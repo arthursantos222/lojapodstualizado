@@ -1,0 +1,23 @@
+body{
+    background-color:azure
+}
+
+div{
+    text-align: center;
+}
+button{
+    background-color: azure;
+}
+h1{
+    background-color: gray;
+}
+input[type=text] {
+    height: 15px;
+    width: 200px;
+    }
+input[type=date]{
+    height: 18px;
+    width: 200px;
+}
+
+    
